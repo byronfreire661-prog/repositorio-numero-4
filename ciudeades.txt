@@ -4,5 +4,6 @@ cuenca
 Ibarra
 QUEVEDO
 ibarra
-azuay
+Azuay
+pichincha
 
