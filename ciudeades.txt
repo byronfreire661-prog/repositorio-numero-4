@@ -2,3 +2,4 @@ quito
 guayaquil
 cuenca
 ibarra
+azuay
