@@ -8,4 +8,5 @@ Azuay
 pichincha
 Snta domingo
 QUITO
+GUAYAQUIL
 
