@@ -3,3 +3,6 @@ guayaquil
 cuenca
 Ibarra
 QUEVEDO
+ibarra
+azuay
+
